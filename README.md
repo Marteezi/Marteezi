@@ -1,4 +1,4 @@
-### Olá eu sou Thiago, desenvolvedor front-end & estudante de full-stack👻.
+### Olá eu sou Thiago, desenvolvedor front-end & estudante de Back-end👻.
 <div style="display: inline_block;">
 
 ![blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
